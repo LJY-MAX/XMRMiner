@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+/.vs/XMRMiner/FileContentIndex
+/.vs/XMRMiner/v17
